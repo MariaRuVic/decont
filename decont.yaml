@@ -1,0 +1,42 @@
+name: entregable
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - seqkit
+  - ca-certificates
+  - wheel
+  - ncurses
+  - zeromq
+  - _libgcc_mutex
+  - bzip2
+  - openssl
+  - python_abi
+  - _openmp_mutex
+  - libgcc-ng
+  - readline
+  - libuuid
+  - ld_impl_linux-64
+  - tzdata
+  - tk
+  - libxcrypt
+  - pycparser
+  - yaml
+  - libgomp
+  - cffi
+  - pandoc
+  - setuptools
+  - libzlib
+  - libnsl
+  - pip
+  - libffi
+  - libstdcxx-ng
+  - xz
+  - libexpat
+  - libsqlite
+  - libsodium
+  - python=3.8
+  - star
+  - cutadapt
+prefix: /home/vant/miniforge3/envs/entregable
